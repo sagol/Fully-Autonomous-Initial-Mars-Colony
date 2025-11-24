@@ -1,6 +1,6 @@
 # Fully Autonomous Initial Mars Colony
 
-A systems-level, openly referenced blueprint for bootstrapping an **initial, self-sustaining Mars outpost**—from propellant logistics and power, to habitats, agriculture, communications, and risk. This repository curates assumptions, trade studies, and design notes into a coherent architecture aimed at **high autonomy with minimal Earth dependence** during the early phases of settlement.
+The Fully Autonomous Initial Mars Colony project is a comprehensive, open-source blueprint for establishing an initial, self-sustaining Mars outpost. This repository curates assumptions, trade studies, and design notes into a coherent architecture aimed at high autonomy with minimal Earth dependence during the early phases of settlement. The project is designed to be a living research/engineering knowledge base, enabling engineers, researchers, and students to reason about end-to-end feasibility and contribute improvements.
 
 ---
 
