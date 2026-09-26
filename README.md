@@ -24,7 +24,7 @@ This is an independent, open research project. It does not represent any space a
 | Wave 1 | Apr 2035 | Nov 2035 | First 100 kWe reactor, water wells, oxygen plant, construction robots |
 | Wave 2 | Jun 2037 | Jul 2038 | Second reactor, habitat, methane and oxygen propellant plant, greenhouse |
 | Wave 3 | Jul 2039 | Jul 2040 | Mars ascent vehicle, third reactor, habitat outfitting, medical bay |
-| Support | Oct 2041 | Aug 2042 | Earth return vehicle to Mars orbit |
+| Support | Oct 2041 | Aug 2042 | Earth return vehicle to Mars orbit, and a support lander with food and robot spares |
 | First crew | Nov 2043 | Sep 2044 | Four people |
 
 All numbers, dates, and budgets come from [chapter 2](02.%20Baseline%20and%20budgets.md).
