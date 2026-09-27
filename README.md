@@ -10,7 +10,7 @@ This book describes a different order of operations. Machines go first. Three wa
 
 Two kinds of limit remain. Several steps the plan depends on have not yet been demonstrated: ship-to-ship refueling in Earth orbit, landing 100 t-class cargo on Mars, and a robot fleet that runs a site for at least 120 days without contact. And one limit the plan does not close at all: with chemical propulsion, every transit option gives the crew more radiation than NASA's 600 mSv career limit, so the first crew flies above it under individual waivers, each accepted in writing ([chapter 2](02.%20Baseline%20and%20budgets.md), [chapter 12](12.%20Human%20readiness%20and%20health.md)).
 
-The book also takes a position on where that workforce is heading. Today's Mars rovers drive themselves for short stretches and choose their own science targets. The book assumes machine intelligence will keep climbing until it reaches minds that are self-aware, indistinguishable from a person in conversation, and far more capable than any human engineer. The plan does not wait for those minds. Every budget closes at level A3 (site autonomy for known work) except one named case: a reactor trip in a dust storm before the second reactor comes online in late 2038 (chapter 2, [the storm case](02.%20Baseline%20and%20budgets.md#the-storm-case)). No spacecraft has reached A3 yet, and [chapter 1](01.%20Mission%20concept%20and%20autonomy.md) sets out the Earth campaign that would prove it. If those minds do arrive, the first Martians may not be human, and this book asks what that would mean.
+The book also takes a position on where that workforce is heading. Today's Mars rovers drive themselves for short stretches and choose their own science targets. The book assumes machine intelligence will keep climbing until it reaches minds that are self-aware, indistinguishable from a person in conversation, and far more capable than any human engineer. The plan does not wait for those minds. Every budget closes at level A3 (site autonomy for known work) except one named case: a reactor trip in a dust storm before the second reactor comes online in January 2039 (chapter 2, [the storm case](02.%20Baseline%20and%20budgets.md#the-storm-case)). No spacecraft has reached A3 yet, and [chapter 1](01.%20Mission%20concept%20and%20autonomy.md) sets out the Earth campaign that would prove it. If those minds do arrive, the first Martians may not be human, and this book asks what that would mean.
 
 > Thesis: An initial Mars outpost can be built and proven human-ready before any person arrives, by a robotic workforce whose autonomy climbs from today's rovers to self-aware artificial minds. The plan must close its budgets and stay safe at every autonomy level; each level gained makes it faster, richer, and more capable.
 
@@ -21,10 +21,10 @@ This is an independent, open research project. It does not represent any space a
 | Window | Departs | Lands | What it delivers |
 |---|---|---|---|
 | Pathfinder (optional) | Apr 2033 | Jan 2034 | Landing test and site survey |
-| Wave 1 | Apr 2035 | Nov 2035 | First 100 kWe reactor, water wells, oxygen plant, construction robots |
-| Wave 2 | Jun 2037 | Jul 2038 | Second reactor, habitat, methane and oxygen propellant plant, greenhouse |
-| Wave 3 | Jul 2039 | Jul 2040 | Mars ascent vehicle, third reactor, habitat outfitting, medical bay |
-| Support | Oct 2041 | Aug 2042 | Earth return vehicle to Mars orbit, and a support lander with food and robot spares |
+| Wave 1 | Jun 2035 | Jan 2036 | First 100 kWe reactor, water wells, oxygen plant, construction robots |
+| Wave 2 | Sep 2037 | Oct 2038 | Second reactor, habitat, methane and oxygen propellant plant, greenhouse |
+| Wave 3 | Sep 2039 | Sep 2040 | Mars ascent vehicle, third reactor, habitat outfitting, medical bay |
+| Support | Oct 2041 | Sep 2042 | Earth return vehicle to Mars orbit, and a support lander with food and robot spares |
 | First crew | Nov 2043 | Sep 2044 | Four people |
 
 All numbers, dates, and budgets come from [chapter 2](02.%20Baseline%20and%20budgets.md).
