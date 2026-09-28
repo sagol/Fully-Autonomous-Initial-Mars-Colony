@@ -2,13 +2,13 @@
 
 *How robots, and eventually artificial minds, could build a working Mars outpost and prove it ready for people before the first person arrives.*
 
-*Last reviewed: September 27, 2026*
+*Last reviewed: September 28, 2026*
 
 Every plan to settle Mars meets the same wall. Mars is between 3 and 22 light-minutes away. For about two weeks every 26 months the Sun sits between the two planets and Earth stops sending commands, and Martian dust storms can dim the sky for months. People who land there need air, water, power, shelter, and a way home on the first day, not after the first decade.
 
 This book describes a different order of operations. Machines go first. Three waves of cargo landers, launched in the 2035, 2037, and 2039 windows, deliver reactors, water wells, oxygen and propellant plants, habitat shells, greenhouses, and a robotic workforce. That workforce, coordinated by a site intelligence called the Orchestrator, builds the outpost and runs it through dust storms and communication gaps without instructions from Earth. The first crew leaves Earth only after the colony has shown, for more than a year, that it can keep them alive and send them home.
 
-Two kinds of limit remain. Several steps the plan depends on have not yet been demonstrated: ship-to-ship refueling in Earth orbit, landing 100 t-class cargo on Mars, a 100 kWe-class fission reactor qualified for Mars (none has been built), a crew heat shield for a 12–14 km/s return to Earth (no crew has entered above about 11 km/s), and a robot fleet that runs a site for at least 120 days without contact. And one limit the plan does not close at all: every transit these windows offer at entry speeds the plan's vehicles can survive gives the crew more radiation than NASA's 600 mSv career limit, so the first crew flies above it under individual waivers, each accepted in writing ([chapter 2](02.%20Baseline%20and%20budgets.md), [chapter 12](12.%20Human%20readiness%20and%20health.md)).
+Two kinds of limit remain. Several steps the plan depends on have not yet been demonstrated: ship-to-ship refueling in Earth orbit, landing 100 t-class cargo on Mars, a 100 kWe-class fission reactor qualified for Mars (none has been built), a crew heat shield for a 12–14 km/s return to Earth (no crew has entered above about 11 km/s; the book's working assumption is a shield qualified for about 12.5 km/s and a return timed to enter no faster), and a robot fleet that runs a site for at least 120 days without contact. And one limit the plan does not close at all: every transit these windows offer at entry speeds the plan's vehicles can survive gives the crew more radiation than NASA's 600 mSv career limit, so the first crew flies above it under individual waivers, each accepted in writing ([chapter 2](02.%20Baseline%20and%20budgets.md), [chapter 12](12.%20Human%20readiness%20and%20health.md)).
 
 The book also takes a position on where that workforce is heading. Today's Mars rovers drive themselves for short stretches and choose their own science targets. The book assumes machine intelligence will keep climbing until it reaches minds that are self-aware, indistinguishable from a person in conversation, and far more capable than any human engineer. The plan does not wait for those minds. Every budget closes at level A3 (site autonomy for known work) except one named case: a dust storm that finds no reactor running before the second reactor comes online in January 2039, either in the first weeks before the first reactor starts or after it trips. The colony then sheds to a survival load of a few kilowatts that storm sunlight and batteries can carry, and restarts the reactor (chapter 2, [the storm case](02.%20Baseline%20and%20budgets.md#the-storm-case)). No spacecraft has reached A3 yet, and [chapter 1](01.%20Mission%20concept%20and%20autonomy.md) sets out the Earth campaign that would prove it. If those minds do arrive, the first Martians may not be human, and this book asks what that would mean.
 
@@ -67,20 +67,21 @@ All numbers, dates, and budgets come from [chapter 2](02.%20Baseline%20and%20bud
 
 Read it straight through for the full argument. If you want the numbers first, start with [chapter 2](02.%20Baseline%20and%20budgets.md), then [chapter 13](13.%20Timeline%20and%20gates.md) for the schedule and [chapter 14](14.%20Critical%20challenges.md) for what could go wrong. Engineers checking a single subsystem can start with its chapter. Chapters 3 to 14 share one skeleton: requirements, design, a short paragraph on what would change the chapter's conclusion, autonomy, evidence and readiness, risks, and open questions. [Chapter 1](01.%20Mission%20concept%20and%20autonomy.md) (the autonomy levels), chapter 2 (the numbers), and [chapter 15](15.%20Terraforming%20and%20the%20long%20view.md) (the long view) follow their own shape.
 
-Three kinds of text appear throughout, and each is marked:
+Four kinds of text appear throughout, and each is marked:
 
 - Facts carry a numbered citation to a source, preferably primary (NASA, the European Space Agency, NASA's Jet Propulsion Laboratory, peer-reviewed journals, Internet Engineering Task Force and Consultative Committee for Space Data Systems standards, NASA's Office of Inspector General, the Committee on Space Research).
-- Design choices and estimates appear in blocks that begin with "Assumption:".
+- Design choices and estimates appear in blocks that begin with "Assumption:", each with its justification.
+- Reasoned claims the evidence cannot yet prove appear in blocks that begin with "Hypothesis:". Each names its basis, the measurements, analogs, or theory it rests on, and the test that would confirm or refute it.
 - Visions of the future appear in italic scenarios, labeled with a place and a year.
 
-Only the scenarios are imagined. Where the book calculates a figure itself, the text says so.
+Only the scenarios are imagined. Where the book calculates a figure itself, the text says so, and where it reasons from an analog, such as a lunar test or an Earth practice, it names the analog and how far it carries.
 
 ## Contributing
 
 Corrections and improvements are welcome through issues and pull requests.
 
 - Cite a source for every factual claim, preferably primary. Link directly to the document, without tracking parameters.
-- Mark design choices with `> Assumption:` and a one-line justification.
+- Mark design choices with `> Assumption:` and a one-line justification, and claims you cannot yet prove with `> Hypothesis:`, their basis, and the test that would settle them.
 - Take numbers from [chapter 2](02.%20Baseline%20and%20budgets.md). If you think one is wrong, propose the change there so every chapter moves together.
 - Use SI units, sentence-case headings, and the chapter structure: requirements, design, what would change this conclusion, autonomy, evidence and readiness, risks, open questions, references.
 
